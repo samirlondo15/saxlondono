@@ -1,0 +1,61 @@
+body{
+    clear: both;
+    background: rgb(32, 11, 11);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#header{
+    clear: both;
+    background: rgb(255, 60, 46);
+    text-align: center;
+    color: black;
+    height: 150px;
+    clear: both;
+    line-height: 150px;
+
+}
+nav{
+    background: rgb(255, 0, 255);
+    text-align: center;
+    color: black;
+    height: 300px;
+    line-height: 300px;
+}
+
+#Section1{
+    background: rgb(229, 255, 0);
+    height: 350px;
+    width: 50%;
+    text-align: center;
+    color: black;
+    line-height: 350px;
+    float: right;
+}
+
+#Section2{
+    background: rgb(9, 255, 0);
+    height: 350px;
+    width: 50%;
+    text-align: center;
+    color: black;
+    line-height: 350px;
+    float: left;
+}
+
+#Section3{
+    clear: both;
+    background: rgb(245, 214, 41);
+    height: 300px;
+    text-align: center;
+    color: black;
+    line-height: 300px;
+}
+
+#Section4{
+    clear: both;
+    background: blue;
+    height: 150px;
+    text-align: center;
+    color: black;
+    line-height: 150px;
+}
